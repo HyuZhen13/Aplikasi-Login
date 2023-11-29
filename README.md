@@ -56,7 +56,6 @@ Proyek ini sedang dalam pengembangan aktif. Kami berupaya terus memperbarui dan 
 
 Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubungi CEO kami melalui email di [Beryll Pradana Ramadhan](https://www.linkedin.com/in/beryll-pradana-ramadhan-58044a212/).
 
-## 🚀 Pembaruan Terbaru| Sedang Dikerjakan - 28 Hari Terakhir | Kontributor Aktif Teratas - 28 Hari Terakhir |
-| ----------- | ----------- |
-| ![Sedang Dikerjakan](https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?repo_id=412545367&activity_type=all&user_id=12960671&image_size=auto) | ![Kontributor Teratas](https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=412545367&image_size=auto) |
+## 📊 Statistik Kontribusi
 
+![Kontributor Teratas](https://contrib.rocks/image?repo=HyuZhen13/Aplikasi-Login)
