@@ -64,7 +64,7 @@ Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubu
 
 ## 👥 Kontributor Paling Aktif - 28 Hari Terakhir
 
-[![GitHub Commit Activity - Last 28 Days](https://img.shields.io/github/commit-activity/w/HyuZhen13/Aplikasi-Login?label=Top%20Contributors%20(28%20Days)&style=flat-square)](https://github.com/HyuZhen13/Aplikasi-Login/graphs/contributors?from=2023-09-01&to=2023-09-30&type=c)
+[![GitHub Commit Activity - Last 28 Days](https://img.shields.io/github/commit-activity/w/HyuZhen13/Aplikasi-Login?label=Top%20Contributors%20(28%20Days)&style=flat-square)](https://github.com/HyuZhen13/Aplikasi-Login/graphs/contributors)
 
 
 
