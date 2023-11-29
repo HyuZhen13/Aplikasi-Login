@@ -57,13 +57,8 @@ Proyek ini sedang dalam pengembangan aktif. Kami berupaya terus memperbarui dan 
 Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubungi CEO kami melalui email di [Beryll Pradana Ramadhan](https://www.linkedin.com/in/beryll-pradana-ramadhan-58044a212/).
 
 ## 📊 Statistik Kontribusi
-<!-- Statistik GitHub -->
-[![Husain Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyuZhen13&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/HyuZhen13/Aplikasi-Login)
-
 <!-- Aktivitas Commit -->
 [![Aktivitas Commit](https://img.shields.io/github/commit-activity/w/HyuZhen13/Aplikasi-Login?label=Commit%20Activity&style=flat-square)](https://github.com/HyuZhen13/Aplikasi-Login/commits)
-
-## 👥 Kontributor Paling Aktif - 28 Hari Terakhir
 
 ## 👥 Kontributor Paling Aktif - 28 Hari Terakhir
 
