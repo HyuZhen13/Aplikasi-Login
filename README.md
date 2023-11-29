@@ -57,5 +57,8 @@ Proyek ini sedang dalam pengembangan aktif. Kami berupaya terus memperbarui dan 
 Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubungi CEO kami melalui email di [Beryll Pradana Ramadhan](https://www.linkedin.com/in/beryll-pradana-ramadhan-58044a212/).
 
 ## 📊 Statistik Kontribusi
+<!-- Your stats -->
+[![Husain Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyuZhen13&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/HyuZhen13)
 
-![Kontributor Teratas](https://contrib.rocks/image?repo=HyuZhen13/Aplikasi-Login)
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyuZhen13&layout=compact&hide_title=true&hide_border=true&theme=radical)](https://github.com/HyuZhen13)
