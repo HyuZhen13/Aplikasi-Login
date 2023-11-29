@@ -65,5 +65,8 @@ Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubu
 
 ## 👥 Kontributor Paling Aktif - 28 Hari Terakhir
 
-[![Kontributor Paling Aktif](https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=412545367&image_size=auto)](https://ossinsight.io/)
+## 👥 Kontributor Paling Aktif - 28 Hari Terakhir
+
+[![Kontributor Paling Aktif](https://img.shields.io/github/commit-activity/w/HyuZhen13/Aplikasi-Login?label=Top%20Contributors%20(28%20Days)&style=flat-square)](https://github.com/HyuZhen13/Aplikasi-Login/commits)
+
 
