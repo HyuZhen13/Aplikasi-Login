@@ -63,3 +63,7 @@ Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubu
 <!-- Aktivitas Commit -->
 [![Aktivitas Commit](https://img.shields.io/github/commit-activity/w/HyuZhen13/Aplikasi-Login?label=Commit%20Activity&style=flat-square)](https://github.com/HyuZhen13/Aplikasi-Login/commits)
 
+## 👥 Kontributor Paling Aktif - 28 Hari Terakhir
+
+[![Kontributor Paling Aktif](https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=412545367&image_size=auto)](https://ossinsight.io/)
+
